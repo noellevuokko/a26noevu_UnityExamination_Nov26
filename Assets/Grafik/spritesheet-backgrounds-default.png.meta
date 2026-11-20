@@ -1,49 +1,49 @@
 fileFormatVersion: 2
-guid: 44765e30dd015684fb46f6e9bf580783
+guid: 8298e3e48d53186409f150b16de7d997
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6260375228410072775
-    second: spritesheet-backgrounds-double_0
+      213: 6560783204865706985
+    second: spritesheet-backgrounds-default_0
   - first:
-      213: 4490480078637153491
-    second: spritesheet-backgrounds-double_1
+      213: -6408413023381415033
+    second: spritesheet-backgrounds-default_1
   - first:
-      213: 3147825690503771732
-    second: spritesheet-backgrounds-double_2
+      213: 6611049747431034928
+    second: spritesheet-backgrounds-default_2
   - first:
-      213: -7377576487720170516
-    second: spritesheet-backgrounds-double_3
+      213: -1080398848617342108
+    second: spritesheet-backgrounds-default_3
   - first:
-      213: 2510112129577898930
-    second: spritesheet-backgrounds-double_4
+      213: 2997489317670278343
+    second: spritesheet-backgrounds-default_4
   - first:
-      213: 7794188296236672455
-    second: spritesheet-backgrounds-double_5
+      213: -5202660243049902650
+    second: spritesheet-backgrounds-default_5
   - first:
-      213: -5219011680076450446
-    second: spritesheet-backgrounds-double_6
+      213: 5240744531327062552
+    second: spritesheet-backgrounds-default_6
   - first:
-      213: 5709259749113386777
-    second: spritesheet-backgrounds-double_7
+      213: 4134423037640407583
+    second: spritesheet-backgrounds-default_7
   - first:
-      213: 202611898707379627
-    second: spritesheet-backgrounds-double_8
+      213: 3750783059553926410
+    second: spritesheet-backgrounds-default_8
   - first:
-      213: -7409588755291651232
-    second: spritesheet-backgrounds-double_9
+      213: 7658918415335052396
+    second: spritesheet-backgrounds-default_9
   - first:
-      213: 7047959696035783138
-    second: spritesheet-backgrounds-double_10
+      213: 7684473254840908245
+    second: spritesheet-backgrounds-default_10
   - first:
-      213: 2059141679219311292
-    second: spritesheet-backgrounds-double_11
+      213: -8502506042668986419
+    second: spritesheet-backgrounds-default_11
   - first:
-      213: 5555265820951987635
-    second: spritesheet-backgrounds-double_12
+      213: 3309586673410561248
+    second: spritesheet-backgrounds-default_12
   - first:
-      213: -843390863407113931
-    second: spritesheet-backgrounds-double_13
+      213: 8497162566832711072
+    second: spritesheet-backgrounds-default_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_0
+      name: spritesheet-backgrounds-default_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1538
-        width: 513
-        height: 513
+        y: 770
+        width: 257
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93176fd06edae19a0800000000000000
-      internalID: -6260375228410072775
+      spriteID: 9eb8e5670959c0b50800000000000000
+      internalID: 6560783204865706985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_1
+      name: spritesheet-backgrounds-default_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 1025
-        width: 513
-        height: 514
+        y: 513
+        width: 257
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dcb22607d3615e30800000000000000
-      internalID: 4490480078637153491
+      spriteID: 78b1d57fe4eb017a0800000000000000
+      internalID: -6408413023381415033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_2
+      name: spritesheet-backgrounds-default_2
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1538
-        width: 514
-        height: 513
+        x: 256
+        y: 770
+        width: 258
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4567351a9c25fab20800000000000000
-      internalID: 3147825690503771732
+      spriteID: 030101ce7ba2fbb50800000000000000
+      internalID: 6611049747431034928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_3
+      name: spritesheet-backgrounds-default_3
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1025
-        width: 514
-        height: 514
+        x: 256
+        y: 513
+        width: 258
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ceb4a22c5459d9990800000000000000
-      internalID: -7377576487720170516
+      spriteID: 46b1c6ca8f6a101f0800000000000000
+      internalID: -1080398848617342108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_4
+      name: spritesheet-backgrounds-default_4
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 1538
-        width: 514
-        height: 513
+        x: 513
+        y: 770
+        width: 258
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3d3e5cea5b5d220800000000000000
-      internalID: 2510112129577898930
+      spriteID: 7c4d3cd27a8399920800000000000000
+      internalID: 2997489317670278343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_5
+      name: spritesheet-backgrounds-default_5
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 1025
-        width: 514
-        height: 514
+        x: 513
+        y: 513
+        width: 258
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,20 +290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c5a1b5c5f48a2c60800000000000000
-      internalID: 7794188296236672455
+      spriteID: 6cd86f5e2107cc7b0800000000000000
+      internalID: -5202660243049902650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_6
+      name: spritesheet-backgrounds-default_6
       rect:
         serializedVersion: 2
-        x: 1538
-        y: 1538
-        width: 513
-        height: 513
+        x: 770
+        y: 770
+        width: 257
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,20 +312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 275bd6a47885297b0800000000000000
-      internalID: -5219011680076450446
+      spriteID: 8121254726ddab840800000000000000
+      internalID: 5240744531327062552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_7
+      name: spritesheet-backgrounds-default_7
       rect:
         serializedVersion: 2
-        x: 1538
-        y: 1025
-        width: 513
-        height: 514
+        x: 770
+        y: 513
+        width: 257
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 917d65c2e7d5b3f40800000000000000
-      internalID: 5709259749113386777
+      spriteID: f1a7fbdf8db606930800000000000000
+      internalID: 4134423037640407583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_8
+      name: spritesheet-backgrounds-default_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
-        width: 513
-        height: 514
+        y: 256
+        width: 257
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,20 +356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba588b9c272dfc200800000000000000
-      internalID: 202611898707379627
+      spriteID: a0db346f1557d0430800000000000000
+      internalID: 3750783059553926410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_9
+      name: spritesheet-backgrounds-default_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 513
-        height: 513
+        width: 257
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +378,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 063cc15e84adb2990800000000000000
-      internalID: -7409588755291651232
+      spriteID: c645eb558b1f94a60800000000000000
+      internalID: 7658918415335052396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_10
+      name: spritesheet-backgrounds-default_10
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 514
-        height: 514
+        x: 256
+        y: 256
+        width: 258
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -400,20 +400,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e1ab7970026fc160800000000000000
-      internalID: 7047959696035783138
+      spriteID: 5d938c016bbb4aa60800000000000000
+      internalID: 7684473254840908245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_11
+      name: spritesheet-backgrounds-default_11
       rect:
         serializedVersion: 2
-        x: 512
+        x: 256
         y: 0
-        width: 514
-        height: 513
+        width: 258
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,20 +422,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb2811c827a839c10800000000000000
-      internalID: 2059141679219311292
+      spriteID: dcf4a1a6dc7010a80800000000000000
+      internalID: -8502506042668986419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_12
+      name: spritesheet-backgrounds-default_12
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 512
-        width: 514
-        height: 514
+        x: 513
+        y: 256
+        width: 258
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,20 +444,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b546b2c4d4481d40800000000000000
-      internalID: 5555265820951987635
+      spriteID: 0e4d0066b830eed20800000000000000
+      internalID: 3309586673410561248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheet-backgrounds-double_13
+      name: spritesheet-backgrounds-default_13
       rect:
         serializedVersion: 2
-        x: 1538
-        y: 512
-        width: 513
-        height: 514
+        x: 770
+        y: 256
+        width: 257
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,8 +466,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5391fcb6a7cab44f0800000000000000
-      internalID: -843390863407113931
+      spriteID: 0a56fcaa55cfbe570800000000000000
+      internalID: 8497162566832711072
       vertices: []
       indices: 
       edges: []
@@ -486,20 +486,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spritesheet-backgrounds-double_0: -6260375228410072775
-      spritesheet-backgrounds-double_1: 4490480078637153491
-      spritesheet-backgrounds-double_10: 7047959696035783138
-      spritesheet-backgrounds-double_11: 2059141679219311292
-      spritesheet-backgrounds-double_12: 5555265820951987635
-      spritesheet-backgrounds-double_13: -843390863407113931
-      spritesheet-backgrounds-double_2: 3147825690503771732
-      spritesheet-backgrounds-double_3: -7377576487720170516
-      spritesheet-backgrounds-double_4: 2510112129577898930
-      spritesheet-backgrounds-double_5: 7794188296236672455
-      spritesheet-backgrounds-double_6: -5219011680076450446
-      spritesheet-backgrounds-double_7: 5709259749113386777
-      spritesheet-backgrounds-double_8: 202611898707379627
-      spritesheet-backgrounds-double_9: -7409588755291651232
+      spritesheet-backgrounds-default_0: 6560783204865706985
+      spritesheet-backgrounds-default_1: -6408413023381415033
+      spritesheet-backgrounds-default_10: 7684473254840908245
+      spritesheet-backgrounds-default_11: -8502506042668986419
+      spritesheet-backgrounds-default_12: 3309586673410561248
+      spritesheet-backgrounds-default_13: 8497162566832711072
+      spritesheet-backgrounds-default_2: 6611049747431034928
+      spritesheet-backgrounds-default_3: -1080398848617342108
+      spritesheet-backgrounds-default_4: 2997489317670278343
+      spritesheet-backgrounds-default_5: -5202660243049902650
+      spritesheet-backgrounds-default_6: 5240744531327062552
+      spritesheet-backgrounds-default_7: 4134423037640407583
+      spritesheet-backgrounds-default_8: 3750783059553926410
+      spritesheet-backgrounds-default_9: 7658918415335052396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
